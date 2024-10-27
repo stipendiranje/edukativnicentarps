@@ -8,7 +8,7 @@
 </head>
 <body>
     <header class="hero">
-        <h1>Podrška studentima jakih fakulteta!</h1>
+        <h1>Podrška studentima!</h1>
         <p>Pomozimo mladima koji se školuju daleko od kuće i grade svetliju budućnost.</p>
         <a href="#prijava" class="button">Prijavi se za stipendiju</a>
     </header>
@@ -18,7 +18,7 @@
         <p>
             Naša misija je da budemo oslonac studentima koji su daleko od svojih domova i porodica, 
             a ulažu izuzetne napore da ostvare svoje obrazovne ciljeve. Ova stipendija namenjena je 
-            devojkama i momcima sa jakih fakulteta, kojima želimo da olakšamo put ka uspehu i pružimo 
+            devojkama i momcima, kojima želimo da olakšamo put ka uspehu i pružimo 
             podršku tamo gde je najpotrebnija. 
         </p>
         <p>
@@ -31,7 +31,7 @@
     <section id="uslovi">
         <h2>Ko može da se prijavi?</h2>
         <ul>
-            <li>Studenti jakih fakulteta koji ne studiraju u svom gradu</li>
+            <li>Studenti fakulteta koji ne studiraju u svom gradu</li>
             <li>Minimalni prosek ocena: 8.5</li>
             <li>Studentkinje i studenti koji nisu obnovili godinu</li>
             <li>Kandidati sa nižim porodičnim primanjima ili oni koji su izgubili jednog roditelja</li>
